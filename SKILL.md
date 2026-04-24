@@ -1,7 +1,7 @@
 ---
-name: wechat-article-archive
+name: obsidian-content-archive
 description: >
-  长文章与长文本归档助手。用户发送任意长文章链接、微信公众号文章、知乎文章/回答、博客、
+  Obsidian 内容归档助手，覆盖长文章、网页链接、微信公众号文章、知乎文章/回答、博客、
   新闻、网页长文，或直接粘贴一大段文字并要求保存、归档、收藏、存到 Obsidian、做文章记录时，
   自动抓取或整理正文、梳理总结核心要点，并将链接/原文信息和摘要保存到 Obsidian Vault 的
   「文章记录」文件夹中。重点支持 mp.weixin.qq.com、zhihu.com、zhuanlan.zhihu.com，也支持
@@ -16,7 +16,7 @@ compatibility:
     如果 web-access 不可用，需要文件系统访问权限保存到 Obsidian Vault。
 ---
 
-# 长文章与长文本归档
+# Obsidian 内容归档
 
 接收任意长文章链接、微信公众号、知乎文章/回答或用户直接粘贴的长文本，自动完成抓取/整理、总结、归档到 Obsidian Vault 的全流程。
 

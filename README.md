@@ -1,8 +1,8 @@
-# wechat-article-archive
+# obsidian-content-archive
 
 A Codex / Claude Code skill for archiving long-form Chinese articles and pasted long text into an Obsidian vault.
 
-Despite the legacy name, this skill is no longer limited to WeChat articles. It supports:
+It supports:
 
 - WeChat official account articles (`mp.weixin.qq.com`)
 - Zhihu columns and answers (`zhihu.com`, `zhuanlan.zhihu.com`)
@@ -38,14 +38,14 @@ For Codex:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/AiYuSherry/wechat-article-archive.git ~/.codex/skills/wechat-article-archive
+git clone https://github.com/AiYuSherry/wechat-article-archive.git ~/.codex/skills/obsidian-content-archive
 ```
 
 For Claude Code:
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/AiYuSherry/wechat-article-archive.git ~/.claude/skills/wechat-article-archive
+git clone https://github.com/AiYuSherry/wechat-article-archive.git ~/.claude/skills/obsidian-content-archive
 ```
 
 ## Usage
